@@ -4,7 +4,7 @@ HouseType Predictor is a **Flask-based web application** that predicts the type 
 
 ---
 
-## 🛠 Features
+##  Features
 
 * User-friendly web interface built with Flask.
 * Predicts **house type** using a trained machine learning model.
@@ -14,7 +14,7 @@ HouseType Predictor is a **Flask-based web application** that predicts the type 
 
 ---
 
-## 💻 Technology Stack
+##  Technology Stack
 
 * **Backend:** Python, Flask
 * **Frontend:** HTML, CSS
@@ -39,7 +39,7 @@ This project uses **supervised learning** with a **Random Forest Classifier**:
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/ud2330/housetype.git
 ```
 
 2. Install dependencies:
